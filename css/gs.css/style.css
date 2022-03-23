@@ -1,0 +1,48 @@
+header h1 {
+    padding:0;
+    font-size: 40px;
+    margin:0;
+    text-align: center;
+    font-family: Arial;
+}
+nav ul {
+    float: right;
+    margin-right : 20px;
+    
+}
+
+.first {
+    background: url(../pics/cat1.webp) no-repeat;
+    width:400px;
+    height: 400px;
+    position:relative;
+    top: 50px;
+}
+.second {
+    background: url(../pics/cat2.webp) no-repeat;
+    width:400px;
+    height:400px;
+    position: relative;
+    top: 50px;
+}
+nav {
+    background:rbg(235, 231, 231);
+    height: 20px;
+    width: 100%
+}
+nav ul li {
+    display: inline-block;
+    line-height: 5px;
+}
+
+.b p{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top:20px;
+
+}
+.c p{
+    font-size:20px;
+    padding-top:60px;
+    line-height:30px;
+}
